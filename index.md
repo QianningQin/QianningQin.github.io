@@ -1,5 +1,5 @@
 ---
-title: "Q. Qin's Homepage"
+title: "Q. Qin"
 date: 2025-02-12
 ---
 
