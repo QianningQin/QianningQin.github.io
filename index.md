@@ -16,5 +16,5 @@ date: 2025-02-12
 </body>
 
 <body>
-<p align="center"> For more information, please refer to my <a href="https://qianningqin.github.io/post/2025-02-12-cv.md">CV</a>, research, and schedule.</p>
+<p align="center"> For more information, please refer to my <a href="https://qianningqin.github.io/cv.md">CV</a>, research, and schedule.</p>
 </body>
